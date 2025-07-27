@@ -1,2 +1,2 @@
-# reto2
-Reto 2 Master Lite Thinking
+Master DevSecOps en Lite Thinking
+Reto 2. Clúster de Kubernetes Local
